@@ -1,0 +1,38 @@
+.blog-header-logo{
+    font-family: "Playfair Display", Georgia, "Times New Roman";
+    font-size: 2.75rem;
+    text-decoration: none;
+}
+.blog-header-logo:hover{
+    text-decoration: underline;
+}
+.nav-scroller a{
+    font-size:1.2rem;
+}
+.head .head1right .fas, .head1right button{
+    font-size:1.2rem;
+}
+.head1right .fas:hover{
+    color: black;
+}
+.banner .title{
+    font-weight: 700;
+}
+.header2 ul li{
+    list-style: none;
+}
+.header2 ul li a{
+    color: #6c757d;
+}
+.about{
+    background-color: rgba(214, 214, 214, 0.514);
+}
+.description{
+    position: relative;
+}
+.sticky-md-top{
+    position: sticky !important;
+}
+.buttonpart button{
+    border-radius: 50rem;
+}
